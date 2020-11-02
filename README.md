@@ -1,1 +1,2 @@
 # Trivial
+https://www.google.com/search?q=trivial+logo&tbm=isch&ved=2ahUKEwj7wbu1i-TsAhWV0-AKHaiDBVIQ2-cCegQIABAA&oq=trivial+logo&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BAgjECc6BAgAEEM6BAgAEB46BggAEAUQHjoECAAQGFCNK1itMGD2NmgAcAB4AIABrgGIAcoFkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=IBqgX_uxMJWngweoh5aQBQ&bih=625&biw=1366&rlz=1C1CHBF_esES924ES924
